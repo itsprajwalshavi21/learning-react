@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Basic react tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Prajwal Shavi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
